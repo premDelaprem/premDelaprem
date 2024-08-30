@@ -11,7 +11,7 @@ Currently, I am working on passion projects, teaching math to K-12 students, and
 
 💡 I tutor/teach several courses in my part-time. Currently, I am teaching K-12 math to kids, college Calculus, Micro/Macroeconomics, and Statistics.
 
-⏱️ In the future, I want to write Medium articles to effectively communicate work from completed projects and share personal perspectives and anecdotes on my various other interests, from sports to ADHD.<br><br>
+⏱️ I enjoy writing Medium articles to effectively communicate work from completed projects and share personal perspectives and anecdotes on my various other interests, from sports to ADHD. [Medium posts coming soon](https://medium.com/@patelprem922)<br><br>
 
 📫 How to reach me: Email: prempatel.ds@gmail.com or my [LinkedIn](https://www.linkedin.com/in/prempatel21/) <br><br>
 
