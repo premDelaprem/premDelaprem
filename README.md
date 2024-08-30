@@ -5,7 +5,7 @@ Currently, I am working on passion projects, teaching math to K-12 students, and
 👀 I’m interested in biomedical research, specifically in the realm of Neuroscience. However, my primary interest lies in data and how to best extract insights from it to help any person or organization.<br><br>
 
 🌱 What I'm working on right now (August '24): 
-1. Learning Django
+1. Building a Django web app for my favorite card game, [Estimation](https://blog.jawaker.com/en/estimation-rules-en/)
 2. Sushi Nutrition Analytics
 <br><br>
 
