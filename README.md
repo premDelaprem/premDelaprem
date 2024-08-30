@@ -1,4 +1,6 @@
-👋 Hi, I’m Prem! I was previously a Financial Data Analyst. I have also taught Economics at the Community College level. Currently, I am transitioning careers and looking for Data Scientist roles. <br><br>
+👋 Hi, I’m Prem! I am a Data Scientist by day and Educator by night. I have previously taught as an Adjunct Professor in Economics at the Community College level and worked as a Financial Data Analyst. <br>
+
+Currently, I am working on passion projects, teaching math to K-12 students, and freelance tutoring college Economics, Statistics, and Calculus courses. <br><br>
 
 👀 I’m interested in biomedical research, specifically in the realm of Neuroscience. However, my primary interest lies in data and how to best extract insights from it to help any person or organization.<br><br>
 
