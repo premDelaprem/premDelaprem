@@ -1,17 +1,15 @@
-👋 Hi, I’m Prem! I am a Data Scientist by day and Educator by night. I have previously taught as an Adjunct Professor in Economics at the Community College level and worked as a Financial Data Analyst. <br>
+👋 Hi, I’m Prem! I am a Data Scientist by day and Educator by night. I have previously taught as an Adjunct Professor in Economics at Cypress College and worked as a Data Analyst at Epic Systems.
 
-Currently, I am working on passion projects, teaching math to K-12 students, and freelance tutoring college Economics, Statistics, and Calculus courses. <br><br>
+Currently, I work at FEMA and wear multiple hats - both as a data analyst and as an engineer. I assist my team in extracting data from hard-to-get places, build dashboards, and write custom Python programs to assist our day-to-day operations and automate tasks. I also teach math to K-12 students in my part-time, and provide freelance tutoring to high school & college students in Economics, Statistics, and Calculus courses. <br><br>
 
-👀 I’m interested in biomedical research, specifically in the realm of Neuroscience. However, my primary interest lies in data and how to best extract insights from it to help any person or organization.<br><br>
+👀 I’m interested in biomedical research and applying data science techniques to advance healthcare, specifically in the realm of Neuroscience.<br><br>
 
 🌱 What I'm working on right now (August '24): 
 1. Building a Django web app for my favorite card game, [Estimation](https://blog.jawaker.com/en/estimation-rules-en/)
 2. Sushi Nutrition Analytics
 <br><br>
 
-💡 I tutor/teach several courses in my part-time. Currently, I am teaching K-12 math to kids, college Calculus, Micro/Macroeconomics, and Statistics.
-
-⏱️ I enjoy writing Medium articles to effectively communicate work from completed projects and share personal perspectives and anecdotes on my various other interests, from sports to ADHD. [Medium posts coming soon](https://medium.com/@patelprem922)<br><br>
+💡 I tutor/teach several courses in my part-time. Currently, I am teaching K-12 math, including Algebra 2, AP Calculus, AP Micro/Macroeconomics, and AP Statistics.
 
 📫 How to reach me: Email: prempatel.ds@gmail.com or my [LinkedIn](https://www.linkedin.com/in/prempatel21/) <br><br>
 
