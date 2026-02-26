@@ -1,13 +1,8 @@
-👋 Hi, I’m Prem! I am a Data Scientist by day and Educator by night. I have previously taught as an Adjunct Professor in Economics at Cypress College and worked as a Data Analyst at Epic Systems.
+👋 Hi, I’m Prem! I am a Data Generalist by day and Educator by night. I have previously taught as an Adjunct Professor in Economics at Cypress College and worked as a Data Analyst at Epic Systems.
 
-Currently, I work at FEMA and wear multiple hats - both as a data analyst and as an engineer. I assist my team in extracting data from hard-to-get places, build dashboards, and write custom Python programs to assist our day-to-day operations and automate tasks. I also teach math to K-12 students in my part-time, and provide freelance tutoring to high school & college students in Economics, Statistics, and Calculus courses. <br><br>
+Currently, I work at FEMA and wear multiple hats - both as a data analyst/scientist and as an engineer. I assist my team in extracting data from hard-to-get places, build dashboards, work on risk evaluation models, and write custom Python programs to assist our day-to-day operations and automate tasks. I also teach math to K-12 students in my part-time, and provide freelance tutoring to high school & college students in Economics, Statistics, and Calculus courses. <br><br>
 
-👀 I’m interested in biomedical research and applying data science techniques to advance healthcare, specifically in the realm of Neuroscience.<br><br>
-
-🌱 What I'm working on right now (August '24): 
-1. Building a Django web app for my favorite card game, [Estimation](https://blog.jawaker.com/en/estimation-rules-en/)
-2. Sushi Nutrition Analytics
-<br><br>
+👀 I’m interested in applying data science techniques to advance any field I find myself working. What I love about data science as a discipline is that I'm always learning, both about techniques to perform data science work and about the industry I work in.<br><br>
 
 💡 I tutor/teach several courses in my part-time. Currently, I am teaching K-12 math, including Algebra 2, AP Calculus, AP Micro/Macroeconomics, and AP Statistics.
 
